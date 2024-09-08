@@ -9,7 +9,7 @@ public class MethodType {
 	3.Return Type Method  
  */
 
-	
+	//comment to commit
 	public static int hourlyIncome = 65 ;
 	public static void main(String[] args) {
 		

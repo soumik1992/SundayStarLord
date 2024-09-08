@@ -4,7 +4,7 @@ public class SwitchCase {
 
 	public static void main(String[] args) {
 
-		//comment to git changes
+		//comment to git changes final
 		
 	}
 

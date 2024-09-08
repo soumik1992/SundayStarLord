@@ -37,7 +37,7 @@ public class Variables {
 		System.out.println(myCounty);
 		System.out.println(country);
 
-		
+		//new Changes
 		
 		
 	}

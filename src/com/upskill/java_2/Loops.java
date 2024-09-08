@@ -10,7 +10,7 @@ public class Loops {
 		
 		practiceDoWhileLoop();
 	}
-		
+		//comment to git changes
 		
 		public static void practiceForLoop()
 		{
